@@ -1,0 +1,45 @@
+لنقاط التي ناقشها الفيديو:
+خاصية ال overflow. و: 0:48
+خاصية ال overflow-y. و: 3:06
+خاصية ال overflow-x. و: 3:37
+-----------------------------
+text-17
+text-shadow; x , y , color , blur;
+x-- محور السينات
+y--- محور الصادات
+text-shadow; 10px 10px 5px red;
+*test-align;center,right,left;
+بتتحكم في مكان العنصر علي محول سينات
+direction: ltr,rtl;
+--------------------------
+ text-decoration: none;
+ بتستخدم مع لنكات
+ text-20
+ خاصية ال letter-spacing. و: 0:21
+خاصية ال text-indent. و: 1:02
+خاصية ال line-height. و: 2:15
+خاصية ال word-spacing. و: 3:48
+خاصية ال white-space. و: 5:06
+خاصية ال word-break. و: 7:08
+---------------------------------
+21-text
+خاصية ال text-overflow. و: 0:16
+ال hover event. و: 2:46
+--------------------------------------
+rotate:0,0;
+-------x-y
+بتقلب العنصر 
+----------------------
+translate:0,0;     بيحرك العنصر 
+----------x-y
+---------------------------
+scale;x,y; بيكبر هنصر من كل نواحي
+---------------------------------
+animation;name duration timing-function delay count direction fill-mode;
+animation-duration: 1s; المده الي يتعمل فيها الانميشن
+animation-timing-function: ;  سرعة الانميشن
+animation-delay: 2s; لما تعمل ري لود ل الصفحة الانميشن يبدا بعد قد ايه
+animation-iteration-count: ; عدد المرات الي يتعمل فيها الانميشن
+animation-direction: ; ابحث
+animation-fill-mode: ; ابحث
+    
